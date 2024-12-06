@@ -37,6 +37,16 @@
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%E03A31.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Apache" src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-%23C72E28.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%233B73A6.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%7F52B6C8.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Swift" src="https://img.shields.io/badge/swift-%F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
 
 </div>
 
